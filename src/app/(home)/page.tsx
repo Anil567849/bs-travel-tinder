@@ -3,6 +3,7 @@ import { useState } from "react";
 import Card from "./com/card";
 import { Dialog, DialogBackdrop, DialogPanel, DialogTitle } from '@headlessui/react'
 import { ExclamationTriangleIcon } from '@heroicons/react/24/outline'
+import { button } from "@nextui-org/react";
 
 const data = [
   {
